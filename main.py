@@ -1,4 +1,4 @@
-import pygame
+import pygame #importing the module
 import os
 pygame.font.init()
 pygame.mixer.init()
