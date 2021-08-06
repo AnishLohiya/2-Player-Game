@@ -1,6 +1,6 @@
 
 # 2-Player-Game
-A Simple 2D python game designed using the Pygame Module.
+A Simple 2D python Game Designed using the Pygame Module.
 
 
 
