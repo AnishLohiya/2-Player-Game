@@ -10,13 +10,12 @@ Run the following to install:
 pip install pygame
 ```
 
+# Setup
 
 To Start the Project run:
 
-Run the following to install:
-
 ```sh
-python app.py
+python main.py
 ```
 
 
