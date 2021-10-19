@@ -3,10 +3,22 @@
 
 A Simple 2D python Game Designed using the Pygame Module.
 
-# Setup
-To Install pygame run `pip install pygame`.
+# Installation
+Run the following to install:
 
-To Start the Project run `python main.py`.
+```sh
+pip install pygame
+```
+
+
+To Start the Project run:
+
+Run the following to install:
+
+```sh
+python app.py
+```
+
 
 # Game-Display
 
